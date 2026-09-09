@@ -1,6 +1,6 @@
 # __LIVRO-PADRAO-ESCRITA — Entender para Cuidar__
 
-__Versão:__ 1.0 __Data:__ 21/06/2026 __Status:__ Draft para validação __Referência:__ Este documento é o guia operacional dos escritores. A LIVRO-SPEC define "o quê"; este documento define "como, exatamente."
+__Versão:__ 1.0 __Data:__ 21/06/2026 __Status:__ Draft para validação __Referência:__ Este documento é o guia operacional dos escritores. A LIVRO-SPEC define "o quê"; este documento define "como, exatamente." __Formato de origem:__ Markdown (`.md`) — capítulos e fichas são escritos e entregues só em `.md`.
 
 ## __1. Os 5 Princípios Narrativos__
 
@@ -548,7 +548,7 @@ Regras do box:
 
 __Camada 3 — Ficha de Evidência (ferramenta interna do escritor — não aparece no livro)__
 
-Para cada capítulo, o escritor recebe uma ficha com:
+Para cada capítulo, o escritor recebe uma ficha em Markdown (`.md`) com:
 
 FICHA DE EVIDÊNCIA — Cap. [N]
 

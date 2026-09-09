@@ -521,7 +521,7 @@ Aplique a __Régua de Calibragem__ completa (seção 10 abaixo) a cada página. 
 
 ### __9.4 Entrega__
 
-O capítulo é entregue como um único documento com todas as secções na ordem do ciclo. Formato: .md ou .docx, conforme orientação do coordenador editorial.
+O capítulo é entregue como um único arquivo Markdown (`.md`) com todas as secções na ordem do ciclo. Não use `.docx`, LaTeX ou outros formatos — a fonte editorial do projeto é só `.md`.
 
 ### __9.5 Revisão__
 

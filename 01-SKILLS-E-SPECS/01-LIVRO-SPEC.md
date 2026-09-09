@@ -70,6 +70,10 @@ __Requisito físico__
 
 O livro deve abrir e ficar plano na mesa para o leitor escrever
 
+__Formato de origem (editorial)__
+
+Markdown (`.md`) — capítulos, fichas de evidência, specs e skills. A tipografia impressa sai da diagramação a partir desta fonte; não se escreve em `.docx` nem LaTeX.
+
 ## __3. Público e Contexto de Uso__
 
 __Leitor típico:__ Adulto 28–55 anos, sente que "precisa se cuidar melhor" mas não sabe por onde começar. Pode ou não estar em acompanhamento terapêutico. Não tem vocabulário clínico. Busca algo prático, não teórico.

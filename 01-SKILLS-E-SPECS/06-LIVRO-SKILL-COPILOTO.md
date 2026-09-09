@@ -158,11 +158,13 @@ Comece perguntando: "Qual capítulo você está escrevendo e em qual seção que
 
 ---
 
+__Formato de trabalho:__ todo rascunho e entrega de capítulo em Markdown (`.md`).
+
 __Documentos para anexar junto com este skill:__
 
 - LIVRO-INDICE-REVISADO.md (o trecho do capítulo que o escritor vai escrever)
 - LIVRO-TEMPLATE-CAP1.md (referência de como fica o texto final)
-- Ficha de Evidência do capítulo (quando disponível)
+- Ficha de Evidência do capítulo em `.md` (quando disponível)
 
 ---
 

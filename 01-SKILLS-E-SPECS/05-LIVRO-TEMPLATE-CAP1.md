@@ -6,7 +6,7 @@ __Versão:__ 1.0 __Data:__ 21/06/2026 __Status:__ Draft para validação
 
 ## __O que é este documento__
 
-Este é o __Capítulo 1 completo__, escrito como texto final — pronto para publicar. Ele serve como template para todos os escritores do projeto.
+Este é o __Capítulo 1 completo__, escrito como texto final em Markdown (`.md`) — pronto para publicar. Ele serve como template para todos os escritores do projeto. Capítulos novos também são entregues só em `.md`.
 
 ### __Para que serve__
 

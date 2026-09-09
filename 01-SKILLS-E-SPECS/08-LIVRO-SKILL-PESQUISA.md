@@ -70,7 +70,7 @@ Para cada capítulo, preciso de 2-3 fontes que atendam TODOS estes critérios:
 
 ## FORMATO DE ENTREGA — FICHA DE EVIDÊNCIA
 
-Para cada capítulo, produza uma ficha neste formato:
+Entregue a ficha como arquivo Markdown (`.md`). Para cada capítulo, produza uma ficha neste formato:
 
 ---
 

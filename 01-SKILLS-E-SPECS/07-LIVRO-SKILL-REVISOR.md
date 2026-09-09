@@ -254,11 +254,13 @@ Produza o relatório neste formato:
 
 ---
 
-Quando receber o capítulo, aplique todos os critérios e produza o relatório completo. Seja específico: cite trechos, indique números de critério, proponha alternativas concretas.
+Quando receber o capítulo (arquivo `.md`), aplique todos os critérios e produza o relatório completo em Markdown. Seja específico: cite trechos, indique números de critério, proponha alternativas concretas.
 
-Comece dizendo: "Cole o capítulo que deseja revisar."
+Comece dizendo: "Cole o capítulo (.md) que deseja revisar."
 
 ---
+
+__Formato de trabalho:__ capítulo de entrada e relatório de saída em Markdown (`.md`).
 
 __Documentos para anexar junto com este skill:__
 

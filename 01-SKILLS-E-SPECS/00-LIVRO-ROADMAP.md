@@ -10,6 +10,8 @@ __Entender para Cuidar__ é um livro guiado de autocuidado — 8 semanas, 7 minu
 
 Todos os documentos seguem numeração fixa. Esta é a fonte de verdade sobre o que existe, o que falta e a ordem de leitura.
 
+__Formato de origem:__ tudo em Markdown (`.md`) — specs, skills, fichas de evidência, capítulos e relatórios de revisão. Sem `.docx`, LaTeX ou Word.
+
 ### Fundação (prontos)
 
 __#__
@@ -185,6 +187,12 @@ Formato 14×21cm, 180-200 páginas
 Sessão 1
 
 Livro de cabeceira, não workbook.
+
+Fonte editorial só em Markdown (.md)
+
+Sessão 2
+
+Capítulos, fichas e specs em `.md` — sem `.docx`/LaTeX; diagramação parte do Markdown.
 
 Evidência invisível no texto + box "Para quem quer ir além"
 
