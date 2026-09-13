@@ -64,6 +64,8 @@ Há uma terceira possibilidade, menos grandiosa: voltar menor.
 
 Não é fingir que nada aconteceu. É olhar para o que aconteceu sem usar isso como prova contra você. O plano não precisa ser defendido como uma promessa de caráter. Pode ser ajustado como uma ferramenta.
 
+Pesquisa recente mostra que a voz interna gentil durante uma recaída protege a energia necessária para tentar de novo. A culpa consome recursos; a compaixão preserva. Isso não significa abandono. Significa que você pode reconhecer o desvio, fazer uma pausa se precisar e recomeçar sem queimar o que já construiu.
+
 Quando você percebe que interrompeu algo importante, qual é a primeira frase que diz para si?
 
 __O que essa frase faz com seu corpo? Ela aproxima você do próximo passo ou torna o retorno mais pesado?__
@@ -96,6 +98,8 @@ Nenhuma versão precisa ser a versão oficial da sua vida. A menor versão exist
 
 O cuidado mínimo não precisa impressionar ninguém. Ele precisa ser possível quando a energia estiver baixa.
 
+Pequeno não é consolação—é estratégia. Pesquisa recente mostra que micro-objetivos diários sustentam mudança de longo prazo muito melhor que promessas grandiosas. Um gesto de dois minutos repetido consistentemente oficia portão de entrada para quem está paralisado. O que parecia muito pequeno para contar era, muitas vezes, aquilo que podia ser repetido.
+
 __Se você tivesse apenas dois minutos hoje, que gesto de cuidado ainda seria possível? E se tivesse dez? E trinta?__
 
 __Dois minutos:__
@@ -125,6 +129,8 @@ Um plano concreto parece menos inspirador. Ele tem hora, lugar e uma ação que 
 “Quando perceber que estou abrindo um aplicativo sem querer, vou pousar os dois pés no chão e perguntar o que eu estava procurando.”
 
 O plano não controla o dia. Apenas prepara uma resposta para um momento que costuma passar depressa.
+
+Esse formato—ligar uma situação conhecida a uma resposta planejada—funciona porque reduz a carga de decisão no instante. A pesquisa é clara: quando você planeja assim, a lacuna entre intenção e ação diminui. Ainda mais: esse tipo de planejamento funciona bem para pessoas em diferentes situações de vida. Não exige recursos especiais. Exige apenas clareza.
 
 Escolha um cuidado pequeno. Agora complete:
 
@@ -186,7 +192,7 @@ __________________________________________________________________
 
 O que permanece nas duas versões? Talvez seja a intenção. Talvez seja o horário. Talvez seja a pessoa que você avisa. Talvez seja apenas o gesto de não se abandonar completamente.
 
-Adaptar não é abandonar. É permitir que o cuidado continue reconhecível mesmo quando precisa mudar de tamanho.
+Adaptar não é abandonar. É permitir que o cuidado continue reconhecível mesmo quando precisa mudar de tamanho. Estudos mostram que quem tem versões diferentes do mesmo cuidado—uma para o dia possível, uma para o dia apertado—consegue manter a prática viva através de mais mudanças de vida. Não é resistência férrea; é flexibilidade onde cabe flexibilidade.
 
 ## O que muita gente descobre aqui
 
@@ -248,6 +254,21 @@ __________________________________________________________________
 Esta peça não precisa ficar bonita. Precisa ser verdadeira o bastante para continuar útil quando a semana não sair como planejado.
 
 __Eu sou alguém que pode recomeçar pequeno.__
+
+---
+
+📚 __Para quem quer ir além__
+
+Os exercícios deste capítulo dialogam com pesquisa recente. Se você quer saber de onde vêm essas ideias:
+
+- **Micro-hábitos e formação**: Estudos recentes mostram que objetivos pequenos sustentam mudança duradoura muito melhor que promessas grandiosas.
+- **Planejamento "quando/onde/como"**: Pesquisa confirma que planos concretos ("se X, então Y") reduzem a lacuna entre intenção e ação—e funcionam bem em diferentes contextos de vida.
+- **Autocompaixão na recaída**: Dados mostram que a voz interna gentil durante lapsos protege a energia necessária para recomeçar, sem eliminar responsabilidade.
+- **Flexibilidade com contexto**: Quem mantém versões diferentes do mesmo cuidado consegue sustentá-lo através de mais mudanças de vida.
+
+Estes são pontos de partida—não leitura obrigatória. O importante é que as estratégias deste capítulo não são intuição isolada. São práticas testadas.
+
+---
 
 ## 7 Minutos — Semana 2
 
